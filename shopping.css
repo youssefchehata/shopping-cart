@@ -1,0 +1,47 @@
+body{background-color: #3A607A}
+.title{
+	text-align: center;
+	font-family: cursive;
+
+}
+.tot{
+    padding: 1%;
+    width: 10%;
+    font-size: 150%;
+    font-family: cursive;
+    border-color: cadetblue;
+    background: darkcyan;
+}
+.total{
+    text-align: center;
+    font-size: 175%;
+}
+
+.art1 {
+    display: flex;
+    justify-content: stretch;
+    width: 89%;
+    font-size: 61%;
+    background-color: white;
+    margin-left: 4%;
+}
+select {
+    height: 0%;
+    margin-top: 5%;
+    margin-right: 4%;
+}
+h2{
+	    margin-right: -53%;
+}
+h3 {
+    margin-left: 57%;
+    font-size: 160%;
+    margin-top: 5%;
+}
+.buyBt{
+    width: 6%;
+    margin-left: 15%;
+    height: 10%;
+    padding-top: 1%;
+    margin-top: 5%;
+}
